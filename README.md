@@ -1,5 +1,8 @@
-### Hi there 👋
+### 👋 Hello there! I'm Tammy, an IT professional and front-end web developer 💻
 
+- 🌱 I'm currently updating my skillset at the University of Birmingham & edX bootcamp in Front-End Web Development & UX.
+- 💡 I'm interested in a new role in web development and collaborating on interesting projects.
+  
 <!--
 **webtam81/webtam81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
